@@ -1,0 +1,16 @@
+.filho {
+    color: rgb(19, 4, 0);
+    text-align: center
+}
+
+body {
+    background-color: #FFFFFF;
+    background-image: url("../img/background.jpg");
+    background-size: 1366px 768px;
+}
+
+.pai {
+    background-color: #fffbfba6;
+    margin: 40px;
+    text-align: center
+}
